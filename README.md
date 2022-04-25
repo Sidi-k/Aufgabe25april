@@ -1,14 +1,14 @@
-# Aufgabe25april
+# Github Flavoured Markdoun
 
-#Checkboxes 
+## Checkboxes 
 - [ ] A
 - [ ] B
-- [X] (https://www.google.de)
+- [X] [Link Extern](https://www.google.de)
 
 # Link
 
 # Intern
-[Checkboxes](#Checkboxes)  
+[Checkboxes](#checkboxes)  
 
 # Extern
 [Google-Link](https://www.google.de)
@@ -19,7 +19,7 @@
 
 :smile:
 :cry:
-:wow:
+
 
 # Tabellen
 
@@ -27,6 +27,4 @@
 | ---     |---       |---         |---       | ---| 
 |Said | K    | 0.0.1988| DE|  040-000|
 |Hallo | K    | 0.0.1987| PL|  030-000|
-|Said | K    | 0.0.1988| ES|  020-000|
-
-
+|Said | K    | 0.0.1988| ES|  020-000|   
