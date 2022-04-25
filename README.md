@@ -4,8 +4,6 @@
 - [ ] B
 - [X] C
 
-
-
 ## Link
 
 ## Intern
@@ -18,12 +16,10 @@
 
 ## Emojis
 
-
 :Smile: 
-
-
+:Cry:
 ## Tabellen
 
 | Vorname | Nachname | Geburtstag | Herkunft | Tel.|      
-| ---     |---       |---         |---       | 0000| 
-|Said | K    | 0.0.2| Deutschland| 
+| ---     |---       |---         |---       | ---| 
+|Said | K    | 0.0.2| Deutschland| | 0000|
