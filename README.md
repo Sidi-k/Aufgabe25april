@@ -3,7 +3,7 @@
 #Checkboxes 
 - [ ] A
 - [ ] B
-- [ X ] (https://www.google.de)
+- [X] (https://www.google.de)
 
 # Link
 
@@ -19,7 +19,7 @@
 
 :smile:
 :cry:
-:Shy:
+:wow:
 
 # Tabellen
 
