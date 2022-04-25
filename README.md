@@ -1,10 +1,9 @@
 # Aufgabe25april
 ##Checkboxes 
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [ ] A
+- [ ] B
+- [X] C
+
 
 
 ## Link
