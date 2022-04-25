@@ -1,24 +1,25 @@
 # Aufgabe25april
-##Checkboxes 
+
+#Checkboxes 
 - [ ] A
 - [ ] B
 - [X] C
 
-## Link
+# Link
 
-## Intern
+# Intern
 [Checkboxes](#Checkboxes)  
 
-## Extern
+# Extern
 [Google-Link](https://www.google.de)
 
 ![Pinguin](/images/logo.png)
 
-## Emojis
+# Emojis
 
-:Smile: 
+:Smile:
 :Cry:
-## Tabellen
+# Tabellen
 
 | Vorname | Nachname | Geburtstag | Herkunft | Tel.|      
 | ---     |---       |---         |---       | ---| 
