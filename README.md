@@ -17,8 +17,8 @@
 
 # Emojis
 
-:Smile:
-:Cry:
+:smile:
+:cry:
 # Tabellen
 
 | Vorname | Nachname | Geburtstag | Herkunft | Tel.|      
