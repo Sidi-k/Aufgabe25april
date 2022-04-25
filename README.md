@@ -6,7 +6,6 @@
 - [ ] Emojis
 - [ ] Tables
 
-* funktioniert nicht in der Preview, nur bei Github. 
 
 ## Link
 
@@ -26,6 +25,6 @@
 
 ## Tabellen
 
-| Vorname | Nachname | Geburtstag | Herkunft |  
-| ---     |---       |---         |---       | 
+| Vorname | Nachname | Geburtstag | Herkunft | Tel.|      
+| ---     |---       |---         |---       | 0000| 
 |Said | K    | 0.0.2| Deutschland| 
